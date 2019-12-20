@@ -8,11 +8,6 @@
 char*wifi_ssid="esw-m19@iiith";
 char*wifi_pwd="e5W-eMai@3!20hOct";
 
-//char*wifi_ssid="Jimin<3";
-//char*wifi_pwd="55025502";
-
-//char * wifi_ssid = "JioFi_10317B3";
-//char * wifi_pwd = "dfzb9thvhc";
 
 //Set web server port number to 80
 WiFiServer server(80);
